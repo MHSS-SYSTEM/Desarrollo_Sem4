@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907020557530",
+    "project_id": "redsocial-sem4",
+    "storage_bucket": "redsocial-sem4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907020557530:android:05c5eeec967106c74859e3",
+        "android_client_info": {
+          "package_name": "com.futboldata.desarrollo_sem4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpS4lxKE_9JOL_0qQ9G5HRP2bw8UcCpzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
